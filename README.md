@@ -1,5 +1,5 @@
 # verifica3
-<h1>TESTO DELLA VERIFICA<\h1>
+TESTO DELLA VERIFICA
 <ol>
   <li>accreditamento</li>
   <li>Restituire la somma di tutti i numeri pari in un array minori di un certo valore n</li>
